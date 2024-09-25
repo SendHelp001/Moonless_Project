@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cxrbwn5vyls0d"
-path="res://.godot/imported/idlestickman.png-eec17d7e253b1cce938a60d1b5315818.ctex"
+uid="uid://dbkjkmuktc6i0"
+path="res://.godot/imported/stickRun.png-4d1152821942ded6b9d16aa91e46a9d4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://idlestickman.png"
-dest_files=["res://.godot/imported/idlestickman.png-eec17d7e253b1cce938a60d1b5315818.ctex"]
+source_file="res://res/char/stickRun.png"
+dest_files=["res://.godot/imported/stickRun.png-4d1152821942ded6b9d16aa91e46a9d4.ctex"]
 
 [params]
 

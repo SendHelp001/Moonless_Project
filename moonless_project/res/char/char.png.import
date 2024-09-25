@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dbkjkmuktc6i0"
-path="res://.godot/imported/stickRun.png-956227a769cc252e7bb9dbec54decfc6.ctex"
+uid="uid://bsu6lem4gfklv"
+path="res://.godot/imported/char.png-2db516449dad48487faf24f35b031555.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://stickRun.png"
-dest_files=["res://.godot/imported/stickRun.png-956227a769cc252e7bb9dbec54decfc6.ctex"]
+source_file="res://res/char/char.png"
+dest_files=["res://.godot/imported/char.png-2db516449dad48487faf24f35b031555.ctex"]
 
 [params]
 

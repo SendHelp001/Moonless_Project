@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://drn8n8056qleu"
-path="res://.godot/imported/background.jpg-79b88fb6fb9ac2ea3dfbdde6ce8e779f.ctex"
+uid="uid://bsqew8g3iweys"
+path="res://.godot/imported/jumpingstick.png-dda1c32feec890c41ca1a5450129301c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://background.jpg"
-dest_files=["res://.godot/imported/background.jpg-79b88fb6fb9ac2ea3dfbdde6ce8e779f.ctex"]
+source_file="res://res/char/jumpingstick.png"
+dest_files=["res://.godot/imported/jumpingstick.png-dda1c32feec890c41ca1a5450129301c.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bsqew8g3iweys"
-path="res://.godot/imported/jumpingstick.png-ae8f492f34afe478cc004754ac780f48.ctex"
+uid="uid://bg6dc8c68t3hk"
+path="res://.godot/imported/SNES - Star Ocean JPN - Astral Cave Tileset.png-dc4b7e9efccbb505089fff12cf477553.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://jumpingstick.png"
-dest_files=["res://.godot/imported/jumpingstick.png-ae8f492f34afe478cc004754ac780f48.ctex"]
+source_file="res://res/tilemaps/SNES - Star Ocean JPN - Astral Cave Tileset.png"
+dest_files=["res://.godot/imported/SNES - Star Ocean JPN - Astral Cave Tileset.png-dc4b7e9efccbb505089fff12cf477553.ctex"]
 
 [params]
 

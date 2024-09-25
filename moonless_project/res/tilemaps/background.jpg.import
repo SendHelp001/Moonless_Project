@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bg6dc8c68t3hk"
-path="res://.godot/imported/SNES - Star Ocean JPN - Astral Cave Tileset.png-7c71dc27fa92ccaf08805bb7e776eb3a.ctex"
+uid="uid://drn8n8056qleu"
+path="res://.godot/imported/background.jpg-b6a5539966f27a7af700356a1cea2776.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://SNES - Star Ocean JPN - Astral Cave Tileset.png"
-dest_files=["res://.godot/imported/SNES - Star Ocean JPN - Astral Cave Tileset.png-7c71dc27fa92ccaf08805bb7e776eb3a.ctex"]
+source_file="res://res/tilemaps/background.jpg"
+dest_files=["res://.godot/imported/background.jpg-b6a5539966f27a7af700356a1cea2776.ctex"]
 
 [params]
 
